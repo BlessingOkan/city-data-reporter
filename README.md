@@ -1,4 +1,5 @@
-# 🌍 City Data Reporter  
+# 🌍 City Data Reporter 
+# ScreenPal Video: https://go.screenpal.com/watch/cTQUeQnDvtq 
 
 A Python program that fetches **live weather data** for any city using the OpenWeatherMap API.  
 
